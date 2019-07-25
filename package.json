@@ -57,7 +57,7 @@
     "memory": "0.0.3"
   },
   "devDependencies": {
-    "@loopback/build": "^1.0.1",
+    "@loopback/build": "^2.0.4",
     "@loopback/testlab": "^1.0.1",
     "@types/node": "^10.11.2"
   }
