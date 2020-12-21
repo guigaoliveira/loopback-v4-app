@@ -44,7 +44,7 @@
     "src"
   ],
   "dependencies": {
-    "@loopback/authentication": "^1.0.6",
+    "@loopback/authentication": "^2.1.6",
     "@loopback/boot": "^1.0.6",
     "@loopback/context": "^1.2.0",
     "@loopback/core": "^1.1.1",
